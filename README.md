@@ -53,4 +53,4 @@ Quotes View
 A scrollable list of quotes with their respective authors displayed in a clean, minimalist style.
 
 
-he BreakingBadQuotesApp demonstrates the potential of SwiftUI for creating simple yet impactful applications. It combines an engaging concept with efficient coding practices, making it a valuable addition to any portfolio.
+The BreakingBadQuotesApp demonstrates the potential of SwiftUI for creating simple yet impactful applications. It combines an engaging concept with efficient coding practices, making it a valuable addition to any portfolio.
